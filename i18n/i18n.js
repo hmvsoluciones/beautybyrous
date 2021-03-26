@@ -1,7 +1,7 @@
 
 function switchLanguage(language){    
     $.ajax({
-        url:"i18n/"+language+".json",
+        url:"https://hmvsoluciones.github.io/beautybyrous/i18n/"+language+".json",
         dataType: "json",
         type:"get"
     }).done(function(data){  
