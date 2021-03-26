@@ -787,6 +787,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 @media screen and (max-width: 480px) {
+  #sloganLang {
+    font-size: 6px;
+  }
   .timeline:before {
     margin-left: -60px;
   }
@@ -1717,6 +1720,3 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top:16px;
 }
 
-#sloganLang {
-  font-size: 8px;
-}
