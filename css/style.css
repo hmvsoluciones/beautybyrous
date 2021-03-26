@@ -1716,3 +1716,7 @@ h1, h2, h3, h4, h5, h6 {
 .my-float{
 	margin-top:16px;
 }
+
+#sloganLang {
+  font-size: 12px;
+}
