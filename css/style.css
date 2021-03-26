@@ -788,11 +788,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 480px) {
   #sloganLang {
-    font-size: 6px;
-    color: red;
+    font-size: 6px !important;    
   }
-  .pageTitle{
-    color: red im !important;
+  .pageTitle{    
     font-size: 24px !important;
   }
   .timeline:before {
@@ -1001,11 +999,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 768px) {
   #sloganLang {
-    font-size: 6px;
-    color: red;
+    font-size: 6px;    
   }
-  .pageTitle{
-    color: red im !important;
+  .pageTitle{    
     font-size: 24px !important;
   }
   #qbootstrap-testimonials .section-heading h2 {
