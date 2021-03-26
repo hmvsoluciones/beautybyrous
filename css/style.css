@@ -793,7 +793,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .pageTitle{
     color: red im !important;
-    font-size: 10px !important;
+    font-size: 24px !important;
   }
   .timeline:before {
     margin-left: -60px;
@@ -1006,7 +1006,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .pageTitle{
     color: red im !important;
-    font-size: 10px !important;
+    font-size: 24px !important;
   }
   #qbootstrap-testimonials .section-heading h2 {
     font-size: 30px;
